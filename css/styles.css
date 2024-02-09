@@ -68,14 +68,10 @@ img {
 }
 @media (min-width: 1200px) {
     .header {
-        background-size: 60rem;
+        background-size: 50%;
     }
 }
-@media (min-width: 1900px) {
-    .header {
-        background-size: 90rem;
-    }
-}
+
 @media (min-width: 2200px) {
     .header {
         background-size: 150rem;
